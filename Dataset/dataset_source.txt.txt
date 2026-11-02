@@ -1,0 +1,7 @@
+Dataset Name: Brazilian E-Commerce Public Dataset by Olist
+
+Source: Kaggle
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+The dataset contains information about orders, customers, products,
+payments, sellers, and reviews.
